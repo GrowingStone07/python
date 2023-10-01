@@ -12,10 +12,12 @@ class DoublyLinkedList():
         self.length=1
 
     def print_list(self):
-        temp=self.head
-        while temp is not None:
-            print (temp.value)
-            temp=temp.next
+        output = []
+        current_node = self.head
+        while current_node is not None:
+            output.append(str(current_node.value))
+            current_node = current_node.next
+        print(" <-> ".join(output))
 
     def append(self,value):
         new_node=Node(value)
@@ -173,7 +175,7 @@ my_DLL.append(10)
 my_DLL.append(20)
 my_DLL.append(30)
 my_DLL.append(40)
-my_DLL.print_list()
+# my_DLL.print_list()
 
 # my_DLL.pop()
 # print('After POP')
@@ -202,6 +204,12 @@ my_DLL.print_list()
 # my_DLL.print_list()
 
 
-print('Removing node at inex 2')
-my_DLL.remove(2)
+# print('Removing node at inex 2')
+# my_DLL.remove(2)
+# my_DLL.print_list()
+
+print('Before Swapping the DLL')
+my_DLL.print_list()
+print('After Swapping the DLL')
+my_DLL.swap_pairs()
 my_DLL.print_list()
