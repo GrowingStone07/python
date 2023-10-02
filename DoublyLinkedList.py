@@ -163,6 +163,7 @@ class DoublyLinkedList():
         # Detaching the dummy_node to release extra space
         if self.head is not None:
             self.head.prev=None
+            
         
 
 
