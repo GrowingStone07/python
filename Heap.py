@@ -86,6 +86,10 @@ myHeap.insert(50)
 myHeap.insert(65)
 print(myHeap.heap)
 
-print('\nAfter removing\n')
+print('\nAfter 1st removing\n')
+myHeap.remove()
+print(myHeap.heap)
+
+print('\nAfter 2nd removing\n')
 myHeap.remove()
 print(myHeap.heap)
