@@ -1,1 +1,4 @@
 
+Full Tree : In Full Tree every Node either points to zero Node or Two Nodes.
+Perfect Tree : In the tree every level is complete.
+Complete Tree : If the Tree is getting filled from left to right i.e. in a level we have values from left to right.
