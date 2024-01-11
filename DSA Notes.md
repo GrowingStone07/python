@@ -15,6 +15,8 @@ insert() : O(n)
 If my requirement is data insertion should be faster and retreival can be managed then LinkedList is better choice than BST.
 Because for linkedlist insert is O(1).
 
+### **Hash Table : **
+
 
 
 Big O Comparison:
