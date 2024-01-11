@@ -17,7 +17,7 @@ Because for linkedlist insert is O(1).
 
 ### Hash Table : 
 
-** Asutosh **
+**Asutosh**
 
 
 
