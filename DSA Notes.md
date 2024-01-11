@@ -16,8 +16,12 @@ If my requirement is data insertion should be faster and retreival can be manage
 Because for linkedlist insert is O(1).
 
 ### Hash Table : 
+Its One Way and deterministic. Its not vice versa. Dictionary is a example of Hash table.
 
-**Asutosh**
+Open Addressing : ex- Linear Probing which means it'll check for the space and if its available then it'll store the value else it'll check next place.
+
+Separate Chaining : Its like storing objects in the same memory. Hash Table table uses linkedlists for separate chaining.
+
 
 
 
