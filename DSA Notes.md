@@ -20,14 +20,9 @@ Because for linkedlist insert is O(1).
 Big O Comparison:
 
 
-
 <img width="456" alt="image" src="https://github.com/GrowingStone07/python/assets/106248741/0308b4d2-7c0c-427f-8acc-df85c86386f6">
 
-
-
 <img width="440" alt="image" src="https://github.com/GrowingStone07/python/assets/106248741/5ac2fb16-7207-47e2-9c9e-dda3af26b6a9">
-
-
 
 <img width="286" alt="image" src="https://github.com/GrowingStone07/python/assets/106248741/6db6e7d7-6a14-4bff-ae52-520a52067b71">
 
