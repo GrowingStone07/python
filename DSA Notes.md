@@ -23,6 +23,8 @@ Its One Way and deterministic. Its not vice versa. Dictionary is a example of Ha
 **Separate Chaining :** Its like storing objects in the same memory. Hash Table table uses linkedlists for separate chaining.
 **Hash Method** : O(1)
 
+### Graphs :
+
 
 
 
