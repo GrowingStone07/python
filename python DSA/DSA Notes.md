@@ -24,6 +24,15 @@ Its One Way and deterministic. Its not vice versa. Dictionary is a example of Ha
 **Hash Method** : O(1)
 
 ### Graphs :
+Adding Vertex and adding relationships is O(1)
+
+
+### Heap :
+Heap is always a complete Tree(filling left to right).
+Max Heap : Max value at top.
+Min Heap : Min value at top.
+
+Heaps are not good for search, they are useful to track max/min value which is at the top and to remove them.
 
 
 
