@@ -32,7 +32,10 @@ Heap is always a complete Tree(filling left to right).
 Max Heap : Max value at top.
 Min Heap : Min value at top.
 
-Heaps are not good for search, they are useful to track max/min value which is at the top and to remove them.
+Heaps are not good for search, they are useful to track max/min value which is at the top and to remove them. Its mainly used in priority queue.
+
+Insert or remove in Heap : O(logn)
+
 
 
 
